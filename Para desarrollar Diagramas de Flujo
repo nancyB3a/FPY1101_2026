@@ -1,0 +1,20 @@
+1.- Calcular el sueldo bruto de un trabajador en función del número de horas trabajadas y del valor de la hora de trabajo.
+2.- Una tienda ofrece un descuento del 15% sobre el total de la compra y un cliente desea saber cuánto deberá pagar finalmente por su compra. 
+3.- Un maestro desea saber qué porcentaje de hombres y que porcentaje de mujeres hay en un grupo de estudiantes. 
+4.- Calcular el nuevo salario de un obrero si obtuvo un incremento del 25% sobre su salario anterior. 
+
+Con Condiciones
+5.- Lea 2 números; si son iguales multipliquelos, si el primero es mayor que el segundo restelos y si no sumelos. 
+6.- Los empleados de una fábrica trabajan en dos turnos: diurno y nocturno. Se desea calcular el salario diario, de acuerdo con los siguientes puntos: 
+    La tarifa de las horas diurnas es de $ 3500 
+    La tarifa de las horas nocturnas es de $ 4500 
+    Si es domingo, la tarifa se incrementa en $ 900 el turno diurno, y $ 1600 el turno nocturno 
+    Considere los siguientes códigos: Domingo = 0; Otros días = 1; Diurno = 2; Nocturno = 3 
+7.- El usuario ingresa una nota, y se le debe mostrar la categoría a la que pertenece dicha nota. Se debe validar que las notas ingresadas estén dentro de los rangos permitidos: no se aceptan notas menores que 1.0 o mayores que 7. Las categorías son:
+    Insifuciente: 1 - 3.9
+    Regular: 4 - 5.5
+    Suficiente: 5.6 - 6.5
+    Excelente: 6.6 - 7
+8.- Ingresada una fecha numérica (por ejemplo 27), decir el día de la semana al que corresponde, suponiendo que el día 1 del mes es lunes y que el mes solo puede tener hasta 30 días. 
+
+
